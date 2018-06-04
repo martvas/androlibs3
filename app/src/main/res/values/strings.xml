@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">androlibs3</string>
+    <string name="pick_image">pick image</string>
+    <string name="cancel_converting">cancel converting</string>
+    <string name="picture_converting">Picture converting...</string>
+    <string name="start_conv">Start converting</string>
+    <string name="finish_conv">Finish converting</string>
+</resources>
